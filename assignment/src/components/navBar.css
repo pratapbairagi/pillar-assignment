@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    list-style: none !important;
+    text-decoration: none !important;
+    padding: 0;
+    margin: 0;
+}
+.nav{
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+}
+
+.nav_share_btn{
+    width: 2.4rem !important;
+    aspect-ratio: 1/1;
+    padding: 0 0 4px 0!important;
+    border-radius: 50%;
+    border: 1px solid blue;
+    background-color: whitesmoke;
+    transform: rotateZ(180deg);
+}
+.nav_share_btn svg{
+    fill: blue !important;
+}
+
+.nav_subscribe_btn{
+    padding: 0 1rem !important;
+    height: 2.4rem !important;
+
+    display: flex !important;
+    margin: 0 !important;
+    column-gap: 6px;
+    border-radius: 20px;
+    width: max-content !important;
+    align-items: center;
+    border: none;
+    background-color: whitesmoke;
+}
+
+.nav_subscribe_btn svg{
+    fill: blue;
+    width: 13px;
+    height: 13px;
+}
+.nav_subscribe_btn span{
+    font-size: 80%;
+    color: blue;
+    font-weight: 500;
+}

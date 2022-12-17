@@ -1,0 +1,106 @@
+[
+    {
+        "title":"Speed Training Playlist",
+        "text":"Get faster for any sport with these speed tips",
+        "type":"video",
+        "price":0,
+        "columns":["left", "center"],
+        "url":"",
+        "icons": {
+                "left": "Youtube",
+                "center":"text",
+                "right": null
+            }
+    },
+    {
+        "title": "Workout Vlog With Batman !",
+        "text":"",
+        "type":"video",
+        "price":0,
+        "columns":["left", "center", "right"],
+        "url":"https://www.youtube.com/embed/fJGDnvoLKFA?mute=0&autoplay=0",
+        "icons" : {
+            "left": "Youtube",
+            "center":"text",
+            "right":"ChevronDown"
+        }
+    },
+    {
+        "title": "Racing people for $$$",
+        "text":"",
+        "type":"video",
+        "price":0,
+        "columns":["left","center","right"],
+        "url":"https://www.youtube.com/embed/RGj5K54dd58?mute=0&amp;autoplay=0",
+        "icons" : {
+            "left": "Youtube",
+            "center":"text",
+            "right":"ChevronDown"
+        }
+    },
+    {
+        "title":"Wishing - king han",
+        "columns":["left","center","right"],
+        "text":"",
+        "type":"video",
+        "price":0,
+        "url":"https://open.spotify.com/embed/album/1R78rI7RSA3siUu4bBLw09",
+        "icons" : {
+            "left": "Spotify",
+            "center":"text",
+            "right":"ChevronDown"
+        }
+    },
+    {
+        "title":"Stream my song !",
+        "text":"Available everywhere !",
+        "columns":["left","center"],
+        "price":0,
+        "type":"audio",
+        "url":"https://sndo.ffm.to/04zwj4m",
+        "icons" : {
+            "left": "MusicNoteBeamed",
+            "center":"text",
+            "right":null
+        }
+    },
+    {
+        "title":"Wishing music video",
+        "columns":["left","center","right"],
+        "text":"",
+        "price":0,
+        "type":"video",
+        "url":"https://www.youtube.com/embed/bmJFOy5Y0FU?mute=0&autoplay=0",
+        "icons" : {
+            "left": "Youtube",
+            "center":"text",
+            "right":"ChevronDown"
+        }
+    },
+    {
+        "title":"Workout Vlog #2",
+        "text":"I’ll follow you back on ig",
+        "url":"https://www.youtube.com/embed/kFpk7Ho7QEw?mute=0&autoplay=0",
+        "type":"video",
+        "columns":["left","center","right"],
+        "price":0,
+        "icons" : {
+            "left": "Youtube",
+            "center":"text",
+            "right":"ChevronDown"
+        }
+    },
+    {
+        "title":"YouTube",
+        "text":"",
+        "url":"https://www.youtube.com/embed/kQPBfyHxK1k?mute=0&autoplay=0",
+        "type":"video",
+        "columns":["left","center","right"],
+        "price":0,
+        "icons" : {
+            "left": "Youtube",
+            "center":"text",
+            "right":"ChevronDown"
+        }
+    }
+]
